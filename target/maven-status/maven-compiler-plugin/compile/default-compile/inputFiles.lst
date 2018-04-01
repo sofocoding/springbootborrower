@@ -1,0 +1,13 @@
+/Users/gcit/git/LMSLibrarian/LibraryLibrarian/src/main/java/com/gcit/library/model/Branch.java
+/Users/gcit/git/LMSLibrarian/LibraryLibrarian/src/main/java/com/gcit/library/model/Publisher.java
+/Users/gcit/git/LMSLibrarian/LibraryLibrarian/src/main/java/com/gcit/library/service/BranchService.java
+/Users/gcit/git/LMSLibrarian/LibraryLibrarian/src/main/java/com/gcit/library/model/Book.java
+/Users/gcit/git/LMSLibrarian/LibraryLibrarian/src/main/java/com/gcit/library/service/ErrorService.java
+/Users/gcit/git/LMSLibrarian/LibraryLibrarian/src/main/java/com/gcit/library/dao/BranchDao.java
+/Users/gcit/git/LMSLibrarian/LibraryLibrarian/src/main/java/com/gcit/library/model/Author.java
+/Users/gcit/git/LMSLibrarian/LibraryLibrarian/src/main/java/com/gcit/library/model/Genre.java
+/Users/gcit/git/LMSLibrarian/LibraryLibrarian/src/main/java/com/gcit/library/dao/BaseDao.java
+/Users/gcit/git/LMSLibrarian/LibraryLibrarian/src/main/java/com/gcit/library/model/Borrower.java
+/Users/gcit/git/LMSLibrarian/LibraryLibrarian/src/main/java/com/gcit/library/dao/BookDao.java
+/Users/gcit/git/LMSLibrarian/LibraryLibrarian/src/main/java/com/gcit/library/model/Loan.java
+/Users/gcit/git/LMSLibrarian/LibraryLibrarian/src/main/java/com/gcit/library/LibraryLibrarianApplication.java

@@ -1,0 +1,15 @@
+com/gcit/library/dao/BookDao$1.class
+com/gcit/library/LibraryLibrarianApplication.class
+com/gcit/library/model/Genre.class
+com/gcit/library/model/Author.class
+com/gcit/library/dao/BranchDao$1.class
+com/gcit/library/model/Publisher.class
+com/gcit/library/model/Branch.class
+com/gcit/library/model/Loan.class
+com/gcit/library/dao/BookDao.class
+com/gcit/library/model/Borrower.class
+com/gcit/library/dao/BranchDao.class
+com/gcit/library/model/Book.class
+com/gcit/library/service/BranchService.class
+com/gcit/library/service/ErrorService.class
+com/gcit/library/dao/BaseDao.class
